@@ -24,4 +24,4 @@ This is a simple Python-based Password Generator App that runs in the console.
 
 ## Author
 
-Name: Sekhar Metla  (www.harisystems.com)
+Name: Shaik Rakheeb (https://github.com/shaikrakheeb28)
